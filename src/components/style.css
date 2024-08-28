@@ -1,0 +1,19 @@
+.content{
+    margin-left: auto;
+    margin-right: auto;
+}
+.A,.B,.C,.D,.E,.F,.G,.H{
+    display: flex;
+}
+.brown{
+    width: 75px;
+    height: 75px;
+    background-color: burlywood;
+    text-align: center;
+}
+.green{
+    width: 75px;
+    height: 75px;
+    background-color: green;
+    text-align: center;
+}
